@@ -1,0 +1,6 @@
+{
+  "name": "Vodafone Cash - تحويل الأموال",
+  "description": "محاكاة طبق الأصل لخدمة تحويل الأموال في محفظة فودافون كاش بكل الشاشات والتفاصيل ونفس التصميم بالملي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
